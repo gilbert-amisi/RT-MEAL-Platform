@@ -1,0 +1,63 @@
+.myCenter {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.titre1 {
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.titre2 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.titre3 {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.titreSpecial {
+    font-size: 20px;
+    color: #106d0e;
+    width: 100%;
+    padding-bottom: 5px;
+    border-bottom: #106d0e solid 1px;
+    font-weight: 600;
+}
+
+.icon1 {
+    font-size: 40px;
+    color: #c0c0c0cb;
+}
+
+.icon2 {
+    font-size: 30px;
+}
+
+.icon3 {
+    font-size: 20px;
+}
+
+.block-option {
+    margin-bottom: 10px;
+}
+
+.item-mainMenu {
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+}
+
+.item-subMenu {
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.sectionPanel {
+    background-color: white;
+    border-top: #000000 solid 4px;
+}
