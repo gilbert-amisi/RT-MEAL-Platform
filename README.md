@@ -10,9 +10,9 @@
 
 ### 🖼️ Interface Preview
 
-| Dashboard Overview | Complaint Management | Data Analytics |
+| Dashboard Overview | Data Analytics |
 | :---: | :---: | :---: |
-| ![Dashboard](screenshots/tpm-dashboard.jpg) | ![Complaints](screenshots/tpm-table.jpg) |
+| ![Dashboard](screenshots/tpm-dashboard.jpg) | ![Analytics](screenshots/tpm-table.jpg) |
 
 ---
 
