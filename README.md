@@ -12,7 +12,7 @@
 
 | Dashboard Overview | Data Analytics |
 | :---: | :---: | :---: |
-| ![Dashboard](screenshots/tpm-dashboard.jpg) | ![Analytics](screenshots/tpm-table.jpg) |
+| ![Dashboard](./screenshots/tpm-dashboard.jpg) | ![Analytics](./screenshots/tpm-table.jpg) |
 
 ---
 
