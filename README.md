@@ -11,7 +11,7 @@
 ### 🖼️ Interface Preview
 
 | Dashboard Overview | Data Analytics |
-| :---: | :---: | :---: |
+| :---: | :---: | 
 | ![Dashboard](./screenshots/tpm-dashboard.jpg) | ![Analytics](./screenshots/tpm-table.jpg) |
 
 ---
